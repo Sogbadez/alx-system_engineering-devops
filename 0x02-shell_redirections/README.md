@@ -1,1 +1,1 @@
-This shows shell redirections
+This is how to redirect the shell
